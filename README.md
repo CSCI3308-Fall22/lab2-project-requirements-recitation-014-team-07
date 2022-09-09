@@ -7,10 +7,10 @@
 ## Overview
 In this lab, we will learn how to use GitHub Projects to manage our class projects. You will work on this lab as a group of 4. Please follow the instructions on the [course website](https://cuboulder-csci3308.pages.dev/docs/labs/lab2/). Note that the above badges serve as quick links to the lab instructions, Course Canvas, and Course Piazza. 
 
-## This will cause a merge conflict (I hope so)
+## Please let this work
 ## Team Name & Members
 1. Team: Recitation-014-Team-07
-Zozozozozo2. Members: Cheng Zhou (chengzhou-31), Matthew Kachensky (Matthew-Kachensky), Zohrah Haycock (zoha7842), Brendan Lancaster (brla5166)
+2. Members: Cheng Zhou (chengzhou-31), Matthew Kachensky (Matthew-Kachensky), Zohreh Haycock (zoha7842), Brendan Lancaster (brla5166)
 
 ## User stories assignees
 ### Note: Some members were not able to be asigned to their user stories, so they have been noted down below:
