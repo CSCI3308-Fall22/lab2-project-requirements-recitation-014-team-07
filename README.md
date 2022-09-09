@@ -31,5 +31,13 @@ git push
 ```
 
 
+<<<<<<< HEAD
+Your socks are down here.
+Make sure to look everywhere before resulting to such chaos.
+=======
 blah blah blah
 socks r cool
+>>>>>>> 646ad36731b7d521b4aed8c93670af0bf84ba156
+
+
+Edited by Cheng Z
