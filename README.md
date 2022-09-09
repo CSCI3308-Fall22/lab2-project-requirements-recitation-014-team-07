@@ -30,5 +30,7 @@ git push
 ```
 
 
+Your socks are down here.
+Make sure to look everywhere before resulting to such chaos.
 blah blah blah
 socks r cool
