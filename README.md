@@ -28,3 +28,7 @@ git add .
 git commit -m "updated Readme.md with team details"
 git push
 ```
+
+
+Your socks are down here.
+Make sure to look everywhere before resulting to such chaos.
