@@ -11,6 +11,13 @@ In this lab, we will learn how to use GitHub Projects to manage our class projec
 1. Team: Recitation-014-Team-07
 2. Members: Cheng Zhou (chengzhou-31), Matthew Kachensky (Matthew-Kachensky), Zohrah Haycock (zoha7842), Brendan Lancaster (brla5166)
 
+## User stories assignees
+### Note: Some members were not able to be asigned to their user stories, so they have been noted down below:
+1. Product Page - zoha7842
+2. Products List - zoha7842
+3. Navigation Bar - brla5166
+4. Banana Stocks - brla5166
+
 ## Submission Guidelines
 Once your team document is ready, append your team details to the Readme.md. Make sure to add, commit, and push your changes. You should run the following commands inside your local git directory.
 
