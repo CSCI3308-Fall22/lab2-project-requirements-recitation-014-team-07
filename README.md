@@ -8,7 +8,7 @@
 In this lab, we will learn how to use GitHub Projects to manage our class projects. You will work on this lab as a group of 4. Please follow the instructions on the [course website](https://cuboulder-csci3308.pages.dev/docs/labs/lab2/). Note that the above badges serve as quick links to the lab instructions, Course Canvas, and Course Piazza. 
 
 <<<<<<< HEAD
-## Project Team Members: Cheng Zhou
+## Project Team Members: Cheng Zhou, Matthew, Zohrah, Brendan
 
 =======
 ## This will cause a merge conflict 
