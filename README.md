@@ -27,6 +27,6 @@ In a terminal opened inside your repo:
 
 ```bash
 git add .
-git commit -m "updated Readme.md with team details"
+git commit -m "updated Readme.md with more bananas"
 git push
 ```
