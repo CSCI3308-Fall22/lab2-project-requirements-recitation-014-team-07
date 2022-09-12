@@ -13,7 +13,11 @@ In this lab, we will learn how to use GitHub Projects to manage our class projec
 
 ## This will cause a merge conflict 
 
+
 >>>>>>> main
+=======
+
+>>>>>>> 274f8bdfc5b742e158e4aa434b0f86d0768c31df
 ## Team Name & Members
 1. Team: Recitation-014-Team-07
 2. Members: Cheng Zhou (chengzhou-31), Matthew Kachensky (Matthew-Kachensky), Zohreh Haycock (zoha7842), Brendan Lancaster (brla5166)
